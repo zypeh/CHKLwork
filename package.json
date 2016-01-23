@@ -1,0 +1,28 @@
+{
+  "name": "chklwork",
+  "version": "1.0.0",
+  "description": "a lightweight, elegant server built for CHKL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zypeh/CHKLwork.git"
+  },
+  "keywords": [
+    "koa",
+    "rest",
+    "api",
+    "server"
+  ],
+  "author": "zypeh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zypeh/CHKLwork/issues"
+  },
+  "homepage": "https://github.com/zypeh/CHKLwork#readme",
+  "dependencies": {
+    "koa": "^1.1.2"
+  }
+}
